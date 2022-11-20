@@ -2,7 +2,7 @@
 
 ## Intro
 
-- 👋 Hi, I’m @roza frm France
+- 👋 Hi, I’m @roza from France
 - 👀   I’m interested in Maths Ω, coding, especially Python, C, Ocaml 🐫 , JS, Django, 
 - Using Git, Docker, unix everyday 
 - 🌱 I’m currenly learning  ![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
