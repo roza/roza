@@ -43,7 +43,7 @@ A few online courses (in French) -  Cours en ligne en Français
 - https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/php/
 - https://roza.gitlab.io/tdd-python-tests-gitlab-ci/
 
-Git intro (to be updated) :
+Git and TDD intro (in english) :
 
 - https://roza.gitlab.io/git-tdd-en/
 
