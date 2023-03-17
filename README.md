@@ -4,13 +4,13 @@
 
 - 👋 Hi, I’m @roza from France
 - 👀   I’m interested in Maths Ω, coding, especially Python, C, Ocaml 🐫 , JS, Django, 
-- Using Git, Docker, unix everyday 
+- Using Git, Docker, Linux everyday 
 - 🌱 I’m currenly learning  ![image](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
  ![image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
  ![image](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
  ![image](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) 
 
-- 💞️ I’m  interested in collaborating on challenging projects or providing training in CS/Maths
+- 💞️ I’m  interested in collaborating on challenging projects or providing training in CS and Maths
 - 📫 How to reach me ... Here or Lnkdin
 
 
@@ -40,7 +40,7 @@ A few online courses (in French) -  Cours en ligne en Français
 - https://roza.gitlab.io/formation-git/
 - https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/django/
 - https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/JS-ES-APIs/
-- https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/php/
+- https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/php/ also hosted on - https://roza.gitlab.io/fast-php/
 - https://roza.gitlab.io/tdd-python-tests-gitlab-ci/
 
 Git and TDD intro (in english) :
