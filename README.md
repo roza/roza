@@ -39,6 +39,7 @@
 A few online courses (in French) -  Cours en ligne en Français
 
 - https://roza.gitlab.io/formation-git/
+- https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/cpp/
 - https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/django/
 - https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/JS-ES-APIs/
 - https://www.univ-orleans.fr/iut-orleans/informatique/intra/tuto/php/ also hosted on - https://roza.gitlab.io/fast-php/
